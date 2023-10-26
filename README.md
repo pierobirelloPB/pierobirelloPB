@@ -1,5 +1,4 @@
 - I'm @pierobirelloPB!
-- PhD student in Network Systems
 - 📫 piero.birello@polito.it
 
 You find some codes to play with in the Entertainment folder.
