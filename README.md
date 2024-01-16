@@ -1,5 +1,5 @@
 - I'm @pierobirelloPB!
-- 📫 piero.birello@polito.it , piero.birello@gmail.com
+- 📫 piero.birello@gmail.com
 
 You find some codes to play with in the pierobirelloPB/Entertainment folder.
 
